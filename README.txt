@@ -5,6 +5,6 @@ On a Saturday morning, me and my friend Kenji decided to work together and make 
 We used a Javascript Library called p5.js to make our game, the Web Editor, and all the code are above. 
 
 # Beta Frogger
-Here is our Result > https://mdbrim.github.io/frogger/index.html
+Here is our Result, have fun! > https://mdbrim.github.io/frogger/index.html
 
 
